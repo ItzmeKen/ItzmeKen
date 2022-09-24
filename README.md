@@ -1,7 +1,7 @@
 ![banner](https://imgur.com/Qh8FuHg.jpg)
 
 <h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Ken</h1>
-<h3 align = "center"><strong>Student| Average Coder | Content Creator </h3>
+<h3 align = "center"><strong>Student | Average Coder | Content Creator </h3>
   
   <p align="center">
     <a href="https://discord.gg/a3EjDW2Uu3" alt="Community nd Coding Discussion">
@@ -40,11 +40,9 @@
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ItzmeKen)
 <br>  
 [<img align="top" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/EndyXDDD)
-<br>
-<br>  
+<br> 
 [<img align="top" alt="instagram" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/itz.me._.aarav)
 <br>
-<br>  
 </div>
 <br>
   
@@ -55,3 +53,10 @@
   <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
+
+  ## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
+</a>
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
