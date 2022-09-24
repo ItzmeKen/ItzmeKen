@@ -33,12 +33,12 @@
 <div>
 <h2  > Join Me Now</h2>
   
-  [<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/ENDYXDD)
-<br>  
+[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/ENDYXDD)
+<br>
 [<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/a3EjDW2Uu3)
-<br>  
+<br>
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ItzmeKen)
-<br>  
+<br>
 [<img align="top" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/EndyXDDD)
 <br> 
 [<img align="top" alt="instagram" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/itz.me._.aarav)
